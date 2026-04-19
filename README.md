@@ -31,8 +31,9 @@ The project uses two main datasets:
 
  **Orders Table**
 
-   Order ID, Order Date, Sales, Profit, Quantity, Discount, Sub-Category*
-     **Customers Table**
+   Order ID, Order Date, Sales, Profit, Quantity, Discount, Sub-Category
+   
+      **Customers Table**
 
    Customer ID, Customer Name, Region, Segment
 
