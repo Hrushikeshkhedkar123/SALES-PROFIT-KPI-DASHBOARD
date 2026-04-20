@@ -29,11 +29,11 @@ The analysis covers:
 
 The project uses two main datasets:
 
-    **Orders Table**
+    Orders Table
 
    Order ID, Order Date, Sales, Profit, Quantity, Discount, Sub-Category
    
-    *Customers Table*
+    Customers Table
 
    Customer ID, Customer Name, Region, Segment
 
